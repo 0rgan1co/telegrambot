@@ -1,0 +1,19 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración del IDE
+.idea/
+.vscode/
+
+# Archivos de node (si se usan en el futuro)
+node_modules/
+npm-debug.log*
+
+# Archivos de ambiente
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
